@@ -45,13 +45,12 @@ The workshop will be highly interactive, including invited keynotes/talks, paper
 **Two types of contributions will be considered:**
 
 - A research or experience full paper with 8 pages max. Papers describing the challenges, starting results, vision papers, or the experience papers from or in cooperation with the practitioners are encouraged.
-
 - A short research or experience paper with 4 pages max. The same topics as for long papers.
 
-Selected papers presented at the workshop will be invited to consider submission (after significant extension) for the [IEEE Transactions on Artificial Intelligence (TAI) special issue on Responsible AI Engineering](https://raiengineering.github.io/RAIE/RAIESI/).
+Selected papers presented at the workshop will be invited to consider submission (after significant extension) for the [**IEEE Transactions on Artificial Intelligence (TAI) special issue on Responsible AI Engineering**](https://raiengineering.github.io/RAIE/RAIESI/).
 
 ### Submission Guidelines
-1. All submissions must be in English and in PDF format. Papers must not exceed the page limits that are listed for each call for papers.
+1. All submissions must be in English and in PDF format. Papers must not exceed the page limits that are listed above.
 2. The Double-Anonymous Review process is employed by RAIE'23.
 
 Detailed submission policies and guidelines for RAIE'23 are in line with the [ESEC/FSE main track requirements](https://2023.esec-fse.org/track/fse-2023-how-to-submit).
