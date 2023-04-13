@@ -32,7 +32,7 @@ Topics of interests include, but are not limited to:
 - Requirement engineering for responsible AI
 - Software architecture and design of responsible AI systems
 - Verification and validation for responsible AI systems
-- DevOps, MLOps, LLMOps for responsible AI systems
+- DevOps, MLOps, MLSecOps, LLMOps for responsible AI systems
 - Development processes for responsible AI systems
 - Responsible AI governance, assessment tools/techniques
 - Reproducibility and traceability of AI systems
