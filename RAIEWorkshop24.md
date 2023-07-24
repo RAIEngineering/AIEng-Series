@@ -51,18 +51,18 @@ Selected papers presented at the workshop will be invited to consider submission
 
 ### Submission Guidelines
 1. All submissions must be in English and in PDF format. Papers must not exceed the page limits that are listed above.
-2. The Double-Anonymous Review process is employed by RAIE'23.
+2. The Double-Anonymous Review process is employed by RAIE'24.
 
-Detailed submission policies and guidelines for RAIE'23 are in line with the [ESEC/FSE main track requirements](https://2023.esec-fse.org/track/fse-2023-how-to-submit).
+Detailed submission policies and guidelines for RAIE'24 are in line with the [ICSE Research track Submission Process](https://conf.researchr.org/track/icse-2024/icse-2024-research-track).
 
 
 ### Important Dates
 
-**Submission Deadline:** July 10, 2023
+**Submission Deadline:** 9 November 2023
 <br>
-**Notification of Acceptance:** August 10, 2023
+**Notification of Acceptance:**  21 December 2023
 <br>
-**Camera Ready (Hard):** August 24, 2023
+**Camera Ready:** 25 January 2024
 
 ### Organizing Committee
 
