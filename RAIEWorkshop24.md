@@ -6,7 +6,6 @@ title: RAIE 2024
 <!-- <p><img src="/img/pierrebourque.jpg" width="200" /><a href="https://profs.etsmtl.ca/pbourque">Pierre Bourque</a> - ing., Ph.D.</p> -->
 
 ## 2nd International Workshop on Responsible AI Engineering (RAIE'24)
-<br>
 
 # Co-located with [**46th International Conference on Software Engineering (ICSE 2024)**](https://conf.researchr.org/home/icse-2024), Lisbon, Portugal, April 14-20, 2024
 
