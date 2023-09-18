@@ -8,11 +8,11 @@ title: RAIE 2024
 ## 2nd International Workshop on Responsible AI Engineering (RAIE'24)
 <br>
 
-<!-- Co-located with [**ICSE 2022**](https://conf.researchr.org/home/icse-2022)
+Co-located with [**ICSE 2024**](https://conf.researchr.org/home/icse-2024)
 <br>
-Virtual
+Lisbon, Portugal
 <br>
-May 21-29, 2022 -->
+April 14-20, 2024
 
 ### Theme & Goals
 
