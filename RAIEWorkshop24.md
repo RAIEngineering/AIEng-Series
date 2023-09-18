@@ -7,7 +7,7 @@ title: RAIE 2024
 
 ## 2nd International Workshop on Responsible AI Engineering (RAIE'24)
 
-# Co-located with [**46th International Conference on Software Engineering (ICSE 2024)**](https://conf.researchr.org/home/icse-2024), Lisbon, Portugal, April 14-20, 2024
+***Co-located with [**46th International Conference on Software Engineering (ICSE 2024)**](https://conf.researchr.org/home/icse-2024), Lisbon, Portugal, April 14-20, 2024***
 
 ### Theme & Goals
 
