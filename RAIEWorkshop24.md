@@ -43,10 +43,11 @@ The workshop will be highly interactive, including invited keynotes/talks, paper
 - A short research or experience paper with 4 pages max. The same topics as for long papers.
 
 ### Submission Guidelines
-1. All submissions must be in English and in PDF format. Papers must not exceed the page limits that are listed above.
+1. All submissions must be in English and in PDF format. Papers must not exceed the page limits that are listed above. It is not possible to pay for extra pages.
 2. The Double-Anonymous Review process is employed by RAIE'24.
 
-Detailed submission policies and guidelines for RAIE'24 are in line with the [ICSE Research track Submission Process](https://conf.researchr.org/track/icse-2024/icse-2024-research-track).
+Detailed submission policies and guidelines for RAIE'24 are in line with the [ICSE Research track Submission Process](https://conf.researchr.org/track/icse-2024/icse-2024-research-track#submission-process). Please note all papers must follow the [ACM formatting 
+instructions](https://www.acm.org/publications/proceedings-template). 
 
 
 ### Important Dates
