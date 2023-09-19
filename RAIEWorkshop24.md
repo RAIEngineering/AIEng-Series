@@ -34,6 +34,8 @@ Topics of interests include, but are not limited to:
 - Trust and trustworthiness of AI systems
 - Human aspect of responsible AI engineering
 - Responsible AI engineering for next-generation foundation model based AI systems (e.g., LLM-based) 
+- Regulatory and policy implications
+- Education and training in responsible AI
 
 The workshop will be highly interactive, including invited keynotes/talks, paper presentations for different topics in the area of responsible AI engineering. 
 
