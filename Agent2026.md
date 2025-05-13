@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agent2026
+title: Agent 2026
 ---
 
 <!-- <p><img src="/img/pierrebourque.jpg" width="200" /><a href="https://profs.etsmtl.ca/pbourque">Pierre Bourque</a> - ing., Ph.D.</p> -->
