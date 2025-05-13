@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RAIE 2025
+title: Agent Engineering Workshop
 ---
 
 <!-- <p><img src="/img/pierrebourque.jpg" width="200" /><a href="https://profs.etsmtl.ca/pbourque">Pierre Bourque</a> - ing., Ph.D.</p> -->
