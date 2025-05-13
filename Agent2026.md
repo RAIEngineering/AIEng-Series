@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Agent Engineering Workshop
+title: Agent2026
 ---
 
 <!-- <p><img src="/img/pierrebourque.jpg" width="200" /><a href="https://profs.etsmtl.ca/pbourque">Pierre Bourque</a> - ing., Ph.D.</p> -->
 
-# International Workshop on Agent Engineering
+# International Workshop on Agent Engineering (Agent 2026)
 
 ***Co-located with [48th International Conference on Software Engineering (ICSE 2026)](https://conf.researchr.org/home/icse-2026), April 12-18 2026 in Rio de Janeiro***
 
