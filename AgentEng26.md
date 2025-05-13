@@ -53,7 +53,6 @@ Topics of interest include, but are not limited to:
 
    Use the following LaTeX declaration at the beginning of your document:
 
-   ```latex
    \documentclass[sigconf,review]{acmart}
 
 
