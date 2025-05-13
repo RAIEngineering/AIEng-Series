@@ -6,17 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: Responsible AI Engineering
+title: Responsible AI Engineering & Agent Engineering
 
 # Your name to show in the footer
-author: RAIE Organization Committee
+# author: RAIE Organization Committee
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   # Call for Papers: "call"
-  RAIE'25: "RAIE2025"
+  Agent Engineering 2026: "AgentEng26"
   Past series:
+    - RAIE'25: "https://conf.researchr.org/home/icse-2025/raie-2025"
     - RAIE'24: "https://conf.researchr.org/home/icse-2024/raie-2024"
     - SE4RAI'22: "https://conf.researchr.org/home/icse-2022/se4rai-2022"
     - TAI SI: "RAIESI"
