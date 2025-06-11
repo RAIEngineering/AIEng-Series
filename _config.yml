@@ -15,6 +15,7 @@ title: Home
 navbar-links:
   # Call for Papers: "call"
   Agent Engineering 2026: "Agent2026"
+  RAIE 2026: "RAIE2026"
   Past series:
     - RAIE'25: "https://conf.researchr.org/home/icse-2025/raie-2025"
     - RAIE'24: "https://conf.researchr.org/home/icse-2024/raie-2024"
