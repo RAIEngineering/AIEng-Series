@@ -1,38 +1,38 @@
 ---
 layout: page
-title: Agent 2026
+title: AGENT 2026
 ---
 
 <!-- <p><img src="/img/pierrebourque.jpg" width="200" /><a href="https://profs.etsmtl.ca/pbourque">Pierre Bourque</a> - ing., Ph.D.</p> -->
 
-# International Workshop on Agent Engineering (Agent 2026)
+# International Workshop on Agentic Engineering (AGENT'26)
 
 ***Co-located with [48th International Conference on Software Engineering (ICSE 2026)](https://conf.researchr.org/home/icse-2026), April 12-18 2026 in Rio de Janeiro***
 
 ### Theme & Goals
 
-Foundation model-based AI agents have attracted significant attention across academic and industrial communities, revitalizing interest in agent-based systems. Unlike traditional AI systems, these agents exhibit goal-directed autonomy, the ability to perceive and interact with complex environments, and the capacity to reason, plan, and make decisions at run-time. Recent advances have enabled various forms of agents, such as API agents and GUI agents, that can orchestrate actions through external systems to complete complex tasks. These developments mark a shift from static model execution to dynamic, context-aware, and task-driven system behaviour.
+Agentic engineering is an emerging discipline focused on the design, development, and operation of systems that exhibit goal-directed autonomy, reasoning, and continuous evolution. Foundation models (FMs), such as large language models (LLM), have been accelerating progress in this area across academia and industry. 
 
-Building such agents requires careful system-level engineering to ensure critical qualities like robustness, safety, and observability. A key design challenge is the growing capability of foundation models such as large language models (LLMs). Developers must decide whether to rely on the LLM or external tools/systems for the same functionality. These decisions can be made at design time, development time, or even at runtime, depending on the problem and context. Highly autonomous agents also require continuous monitoring, observability, intervention, and oversight after deployment, an emerging discipline referred to as AgentOps. Designing this post-deployment environment is also highly complex, with many interdependent design choices. 
+Agentic systems often involve multiple interacting agents, humans, and tools, requiring rigorous system-level engineering to ensure critical qualities like robustness, safety, and observability. A key design challenge in agentic engineering is the growing capability of FMs/LLMs. Developers must decide whether to rely on the FM/LLM or external tools/systems for the same functionality. These decisions can be made at various stages depending on the problem and context: during design time, development time, or event at runtime from a software engineering perspective, and at pre-training time, post-training time, test/inference time, and post-inference time from an AI perspective. Highly autonomous agentic systems also require continuous monitoring, evaluation, observability, intervention, and oversight after deployment, an emerging discipline referred to as AgentOps. Designing this post-deployment environment is also highly complex, with many interdependent design choices. 
 
-
-This workshop will serve as a forum for exploring cutting-edge engineering methods, techniques, and tools for engineering AI agents. It aims to bring together researchers and practitioners from both software engineering and AI to build a community focused on tackling the unique engineering challenges in developing AI agents. Participants will have the opportunity to share insights, innovations, and real-world experiences in the design, development, and operation of AI agents. 
+**This workshop will provide a forum for exploring cutting-edge engineering methods, techniques, and tools for agentic systems in general and agentic systems for software engineering in particular.** It will bring together researchers and practitioners to share insights, innovations, and real-world experiences in the design, development, and operation of agentic systems. 
 
 
 ### Topics of Interest
 
 Topics of interest include, but are not limited to:
 
- - Requirements engineering for agents, agentic systems, and multi-agent systems 
- - Architecture design for agents, agentic systems, and multi-agent systems
- - Verification, validation, and testing of agents, agentic systems, and multi-agent systems 
- - AgentOps - DevOps for agents, agentic systems, and multi-agent systems 
- - Development processes and lifecycle management for agents, agentic systems, and multi-agent systems
- - Evaluation methodologies, tools, and benchmarks for agents, agentic systems, and multi-agent systems 
- - Responsible AI and AI safety of agents, agentic systems, and multi-agent systems 
+ - Requirements engineering for agentic systems
+ - Architectural design for agentic systems
+ - Verification, validation, and testing of agentic systems
+ - AgentOps - DevOps for agentic systems
+ - Development processes and lifecycle management for agentic systems
+ - Evaluation methodologies, tools, and benchmarks for agentic systems 
+ - Responsible AI and AI safety of agentic systems 
+ - Agentic systems for software engineering, including requirements, design, coding, testing, deployment, and operations
  - Human-agent interaction, collaboration, and oversight
- - Real-world case studies and practical experiences in different domains 
-
+ - Risk and impact assessment (e.g. economic/social impact)
+ - Real-world case studies and practical experiences in different domains
 
 
 
