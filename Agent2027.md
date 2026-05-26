@@ -57,7 +57,7 @@ Planned submission types:
 
 ### Submission Guidelines
 
-All submissions must be original, written in English, and formatted according to the IEEE conference proceedings template. Submissions are expected to be reviewed single-anonymously by at least three program committee members. Accepted workshop papers are expected to be published in the ICSE 2027 workshop proceedings.
+All submissions must be original, written in English, and formatted according to the IEEE conference proceedings template. Submissions are expected to be reviewed single-anonymously by at least three PC members. Accepted workshop papers are expected to be published in the ICSE 2027 workshop proceedings.
 
 ### Important Dates
 
