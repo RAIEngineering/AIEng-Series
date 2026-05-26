@@ -26,6 +26,7 @@ navbar-links:
         - AGENT'26: "Agent2026"
     - Special Issues:
         - TAI SI: "RAIESI"
+        - IEEE Software SI-Agentic Systems: "https://www.computer.org/digital-library/magazines/so/cfp-engineering-agentic-systems"
         - Computer-SI-SE4RAI: "https://www.computer.org/digital-library/magazines/co/call-for-papers-special-issue-on-software-engineering-for-responsible-ai"
   # Contact: "mailto:qinghua.lu@data61.csiro.au"
 

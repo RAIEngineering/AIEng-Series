@@ -279,13 +279,22 @@ img {
 
 @media (min-width: 1200px) {
   .navbar-custom .nav-item.dropdown .dropdown-menu {
+    left: auto;
+    right: 0;
+    min-width: 15rem;
+    max-width: calc(100vw - 2rem);
     text-align: center;
+    width: max-content;
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
     padding-left: 0.625rem;
     border: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
     border-width: 0 1px 1px;
+  }
+
+  .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-header {
+    line-height: 1.2;
   }
 }
 

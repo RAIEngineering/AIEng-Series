@@ -3,7 +3,7 @@ layout: page
 title: AGENT 2027
 ---
 
-# Proposed 2nd International Workshop on Agentic Engineering (AGENT'27)
+# The Second International Workshop on Agentic Engineering (AGENT'27)
 
 ***Proposal under preparation for [49th IEEE/ACM International Conference on Software Engineering (ICSE 2027)](https://conf.researchr.org/home/icse-2027), Dublin, Ireland, 25 April - 1 May 2027***
 
@@ -15,55 +15,69 @@ ICSE 2027 will be held in Dublin, Ireland, at The Convention Centre Dublin from 
 
 ### Theme & Goals
 
-Agentic engineering is an emerging discipline focused on the design, development, evaluation, and operation of systems that exhibit goal-directed autonomy, reasoning, tool use, interaction, and continuous evolution. Foundation models, including large language models (LLMs), are accelerating progress in agentic systems across academia and industry.
+Agentic engineering focuses on the design, development, evaluation, and operation of agentic AI systems that exhibit goal-directed autonomy, reasoning, tool use, interaction, and continuous evolution. Foundation-model-based agents are moving from prototypes into real software engineering workflows, including development, testing, maintenance, operations, and knowledge-work platforms.
 
-Agentic systems often involve multiple interacting agents, humans, tools, services, memory, planning mechanisms, and runtime environments. They require rigorous system-level engineering to ensure qualities such as robustness, safety, reliability, observability, controllability, and accountability. A key design challenge is deciding when to rely on a foundation model, when to rely on external tools or software systems, and how to coordinate these choices across design time, development time, inference time, and post-deployment operation.
+These systems can decompose goals, use tools, call APIs, coordinate with humans and other agents, generate or modify software artifacts, monitor execution, and operate in partially open-ended environments. However, many current agentic AI applications are assembled from prompts, tools, memory stores, orchestration frameworks, model-context protocols, and ad hoc evaluations without systematic treatment of requirements, architecture, verification, or oversight.
 
-Highly autonomous agentic systems also require continuous monitoring, evaluation, observability, intervention, and oversight after deployment, an emerging discipline often referred to as AgentOps. Designing this post-deployment environment is complex and involves many interdependent technical and governance decisions.
+AGENT'27 will provide an interactive forum for researchers and practitioners to advance engineering foundations for agentic AI systems. The workshop will emphasise empirical evidence, reusable methods, operational lessons, and open research problems across the agentic AI system lifecycle. It will build on AGENT'26 by shifting from establishing the topic to consolidating evidence, engineering practices, validation objectives, benchmark needs, and a shared research agenda.
 
-This proposed workshop will provide a forum for exploring cutting-edge engineering methods, techniques, and tools for agentic systems in general and agentic systems for software engineering in particular. It aims to bring together researchers and practitioners to share insights, innovations, and real-world experiences in the design, development, evaluation, and operation of agentic systems.
+The anticipated goals and outcomes are to:
+
+1. Refine a research agenda for agentic engineering, including open problems where current software engineering theories, methods, and tools are insufficient.
+2. Identify validation objectives, empirical study designs, datasets, benchmark needs, and artifact-sharing opportunities.
+3. Share practical lessons from deployed or near-deployed agentic AI systems, including reliability failures, safety controls, human oversight, observability, and AgentOps practices.
+4. Foster cross-community collaboration across requirements, architecture, testing, responsible AI, and industrial AI-enabled software development.
 
 ### Topics of Interest
 
 Topics of interest include, but are not limited to:
 
-- Requirements engineering for agentic systems
-- Architectural design for agentic systems
-- Verification, validation, and testing of agentic systems
-- AgentOps and DevOps for agentic systems
-- Development processes and lifecycle management for agentic systems
-- Evaluation methodologies, tools, and benchmarks for agentic systems
-- Responsible AI and AI safety of agentic systems
-- Agentic systems for software engineering, including requirements, design, coding, testing, deployment, and operations
-- Human-agent interaction, collaboration, intervention, and oversight
+- Requirements engineering, goal modeling, and specification for agentic AI systems
+- Architecture, orchestration, tool use, memory, protocols, and multi-agent coordination
+- Verification, validation, testing, red-teaming, simulation, and benchmarking
+- AgentOps, observability, runtime monitoring, intervention, and incident response
+- Responsible AI, safety, security, privacy, accountability, and governance
+- Agentic systems for requirements, design, coding, testing, deployment, maintenance, and operations
+- Human-agent interaction, collaboration, oversight, trust calibration, and socio-technical effects
 - Risk, impact, and assurance of agentic systems
-- Observability, monitoring, logging, and runtime governance
-- Real-world case studies and practical experiences in different domains
+- Empirical studies, industrial case studies, datasets, tools, and deployment lessons
 
-### Tentative Contributions
+### Workshop Format
+
+AGENT'27 is planned as a one-day, in-person workshop, preferably before the main ICSE 2027 conference. The preferred date is Tuesday, 27 April 2027, subject to ICSE scheduling.
+
+The workshop is expected to be highly interactive, including invited keynotes or industry talks, research and experience paper presentations grouped by theme, short discussant responses after paper sessions, a moderated panel discussion, and a closing research-agenda session.
+
+### Target Audience
+
+The target audience includes academic researchers, industry practitioners, tool builders, platform engineers, PhD students, and research leaders interested in the development, governance, deployment, and use of agentic AI systems, software engineering for AI, and AI for software engineering.
+
+### Contributions
 
 If accepted, the workshop is expected to invite:
 
-- Research or experience full papers, up to 8 pages
-- Short research or experience papers, up to 4 pages
+- Full papers, research or experience, up to 8 pages excluding references
+- Short papers, including position, emerging research, tool, benchmark, or experience papers, up to 5 pages excluding references
 
 Final contribution types, page limits, proceedings arrangements, and submission instructions will be confirmed after ICSE 2027 workshop decisions.
 
 ### Submission Guidelines
 
-Submission details are TBA and will be updated after the workshop proposal outcome. The workshop is expected to follow ICSE 2027 workshop policies and use the official ACM/IEEE formatting requirements applicable at the time of submission.
+All submissions must be original, written in English, and formatted according to the IEEE conference proceedings template. Submissions are expected to be reviewed single-anonymously by at least three program committee members. Accepted workshop papers are expected to be published by IEEE, subject to ICSE 2027 workshop approval and final proceedings arrangements.
 
 ### Important Dates
 
 **ICSE 2027 Workshop Proposal Submission Deadline:** 12 June 2026
 <br>
-**ICSE 2027 Workshop Dates:** 25-27 April 2027, or 1 May 2027
+**Workshop Paper Submission Deadline:** 27 November 2026
 <br>
-**AGENT'27 Paper Submission Deadline:** TBA, pending ICSE approval
+**Notification of Acceptance:** 11 December 2026
 <br>
-**Notification of Acceptance:** TBA
+**Camera Ready:** 29 January 2027
 <br>
-**Camera Ready:** TBA
+**Workshop Date:** Preferred Tuesday, 27 April 2027; exact date TBA
+
+All paper deadlines are expected to be Anywhere on Earth (AoE).
 
 ### Tentative Organizing Committee
 
@@ -73,6 +87,10 @@ Submission details are TBA and will be updated after the workshop proposal outco
 - **Ahmed E. Hassan** - *Queen's University*, Canada ([ahmed@cs.queensu.ca](mailto:ahmed@cs.queensu.ca))
 - **David Lo** - *Singapore Management University*, Singapore ([davidlo@smu.edu.sg](mailto:davidlo@smu.edu.sg))
 - **Liming Zhu** - *CSIRO's Data61*, Australia ([liming.zhu@data61.csiro.au](mailto:liming.zhu@data61.csiro.au))
+
+#### Proceedings Chair
+
+- **Yue Liu** - *The Australian National University*, Australia ([yue.liu1@anu.edu.au](mailto:yue.liu1@anu.edu.au))
 
 #### Program Committee
 
