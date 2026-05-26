@@ -14,14 +14,19 @@ title: Home
 
 navbar-links:
   # Call for Papers: "call"
-  Agentic Engineering 2026: "Agent2026"
-  RAIE 2026: "RAIE2026"
-  Past series:
-    - RAIE'25: "https://conf.researchr.org/home/icse-2025/raie-2025"
-    - RAIE'24: "https://conf.researchr.org/home/icse-2024/raie-2024"
-    - SE4RAI'22: "https://conf.researchr.org/home/icse-2022/se4rai-2022"
-    - TAI SI: "RAIESI"
-    - Computer-SI-SE4RAI: "https://www.computer.org/digital-library/magazines/co/call-for-papers-special-issue-on-software-engineering-for-responsible-ai"
+  AGENT 2027: "Agent2027"
+  RAIE 2027: "RAIE2027"
+  Past Series:
+    - RAIE Workshops:
+        - RAIE'26: "RAIE2026"
+        - RAIE'25: "https://conf.researchr.org/home/icse-2025/raie-2025"
+        - RAIE'24: "https://conf.researchr.org/home/icse-2024/raie-2024"
+        - SE4RAI'22: "https://conf.researchr.org/home/icse-2022/se4rai-2022"
+    - AGENT Workshops:
+        - AGENT'26: "Agent2026"
+    - Special Issues:
+        - TAI SI: "RAIESI"
+        - Computer-SI-SE4RAI: "https://www.computer.org/digital-library/magazines/co/call-for-papers-special-issue-on-software-engineering-for-responsible-ai"
   # Contact: "mailto:qinghua.lu@data61.csiro.au"
 
 # --- Logo --- #
@@ -231,4 +236,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-

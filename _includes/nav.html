@@ -19,7 +19,16 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               {%- for childlink in link[1] -%}
                 {%- for linkparts in childlink %}
-                  <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                  {%- if linkparts[1].first %}
+                    <h6 class="dropdown-header">{{ linkparts[0] }}</h6>
+                    {%- for groupedlink in linkparts[1] -%}
+                      {%- for groupedparts in groupedlink %}
+                        <a class="dropdown-item" href="{{ groupedparts[1] | relative_url }}">{{ groupedparts[0] }}</a>
+                      {%- endfor -%}
+                    {%- endfor %}
+                  {%- else %}
+                    <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                  {%- endif -%}
                 {%- endfor -%}
               {%- endfor %}
             </div>
