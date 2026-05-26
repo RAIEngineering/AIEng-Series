@@ -71,8 +71,6 @@ All paper deadlines are expected to be Anywhere on Earth (AoE).
 
 ### Organizing Committee
 
-#### Workshop Organisers
-
 - **Qinghua Lu** - *CSIRO's Data61*, Sydney, Australia ([qinghua.lu@data61.csiro.au](mailto:qinghua.lu@data61.csiro.au))
 - **Ahmed E. Hassan** - *Queen's University*, Canada ([ahmed@cs.queensu.ca](mailto:ahmed@cs.queensu.ca))
 - **David Lo** - *Singapore Management University*, Singapore ([davidlo@smu.edu.sg](mailto:davidlo@smu.edu.sg))
