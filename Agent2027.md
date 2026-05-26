@@ -5,13 +5,9 @@ title: AGENT 2027
 
 # The Second International Workshop on Agentic Engineering (AGENT'27)
 
-***Proposal under preparation for [49th IEEE/ACM International Conference on Software Engineering (ICSE 2027)](https://conf.researchr.org/home/icse-2027), Dublin, Ireland, 25 April - 1 May 2027***
+***Preliminary website for a proposed workshop at [49th IEEE/ACM International Conference on Software Engineering (ICSE 2027)](https://conf.researchr.org/home/icse-2027), Dublin, Ireland***
 
-**Status:** AGENT'27 is currently being prepared as a workshop proposal for ICSE 2027. Details on acceptance, final workshop date, paper submission deadlines, and program will be updated after ICSE workshop decisions.
-
-### ICSE 2027 Context
-
-ICSE 2027 will be held in Dublin, Ireland, at The Convention Centre Dublin from Sunday, 25 April to Saturday, 1 May 2027. Core conference days will be Wednesday, 28 April to Friday, 30 April 2027. ICSE 2027 workshops are planned for Sunday, 25 April to Tuesday, 27 April, or Saturday, 1 May 2027.
+**Status:** This page is preliminary. Final submission links, program details, and accepted paper information will be added when available.
 
 ### Theme & Goals
 
@@ -44,7 +40,7 @@ Topics of interest include, but are not limited to:
 
 ### Workshop Format
 
-AGENT'27 is planned as a one-day, in-person workshop, preferably before the main ICSE 2027 conference. The preferred date is Tuesday, 27 April 2027, subject to ICSE scheduling.
+AGENT'27 is planned as a one-day, in-person workshop.
 
 The workshop is expected to be highly interactive, including invited keynotes or industry talks, research and experience paper presentations grouped by theme, short discussant responses after paper sessions, a moderated panel discussion, and a closing research-agenda session.
 
@@ -54,32 +50,26 @@ The target audience includes academic researchers, industry practitioners, tool 
 
 ### Contributions
 
-If accepted, the workshop is expected to invite:
+Planned submission types:
 
 - Full papers, research or experience, up to 8 pages excluding references
 - Short papers, including position, emerging research, tool, benchmark, or experience papers, up to 5 pages excluding references
 
-Final contribution types, page limits, proceedings arrangements, and submission instructions will be confirmed after ICSE 2027 workshop decisions.
-
 ### Submission Guidelines
 
-All submissions must be original, written in English, and formatted according to the IEEE conference proceedings template. Submissions are expected to be reviewed single-anonymously by at least three program committee members. Accepted workshop papers are expected to be published by IEEE, subject to ICSE 2027 workshop approval and final proceedings arrangements.
+All submissions must be original, written in English, and formatted according to the IEEE conference proceedings template. Submissions are expected to be reviewed single-anonymously by at least three program committee members. Accepted workshop papers are expected to be published in the ICSE 2027 workshop proceedings.
 
 ### Important Dates
 
-**ICSE 2027 Workshop Proposal Submission Deadline:** 12 June 2026
-<br>
 **Workshop Paper Submission Deadline:** 27 November 2026
 <br>
 **Notification of Acceptance:** 11 December 2026
 <br>
 **Camera Ready:** 29 January 2027
-<br>
-**Workshop Date:** Preferred Tuesday, 27 April 2027; exact date TBA
 
 All paper deadlines are expected to be Anywhere on Earth (AoE).
 
-### Tentative Organizing Committee
+### Organizing Committee
 
 #### Workshop Organisers
 
@@ -87,11 +77,3 @@ All paper deadlines are expected to be Anywhere on Earth (AoE).
 - **Ahmed E. Hassan** - *Queen's University*, Canada ([ahmed@cs.queensu.ca](mailto:ahmed@cs.queensu.ca))
 - **David Lo** - *Singapore Management University*, Singapore ([davidlo@smu.edu.sg](mailto:davidlo@smu.edu.sg))
 - **Liming Zhu** - *CSIRO's Data61*, Australia ([liming.zhu@data61.csiro.au](mailto:liming.zhu@data61.csiro.au))
-
-#### Proceedings Chair
-
-- **Yue Liu** - *The Australian National University*, Australia ([yue.liu1@anu.edu.au](mailto:yue.liu1@anu.edu.au))
-
-#### Program Committee
-
-TBA
